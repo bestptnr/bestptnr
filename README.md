@@ -1,3 +1,4 @@
 ### Hi there , I'm Best from Thailand👋
-
-- I love programming
+<hr>
+- <i>Currently : khon kaen university</i>
+<hr>
