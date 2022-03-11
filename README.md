@@ -5,9 +5,9 @@
 <hr>
 <h3>I'm currently learning</h3>
 <hr>
-- <i>DATABASE ANALYSIS AND DESIGN</i> <br>
-- <i>WEB APPLICATION PROGRAMMING</i> <br>
-- <i>MOBILE WEB APPLICATION DEVELOPMENT</i> <br>
-- <i>SOFTWARE ENGINEERING</i> <br>
-- <i>INFORMATION AND COMMUNICATION TECHNOLOGY SECURITY</i> <br>
+- <i>Database Analysis And Design</i> <br>
+- <i>Web Application Programming</i> <br>
+- <i>Mobile Web Application Development</i> <br>
+- <i>Software Engineering</i> <br>
+- <i>Information And Communication Technology Security</i> <br>
 <hr>
