@@ -3,7 +3,7 @@
 - <i>Currently : khon kaen university</i> <br>
 - <i>Faculty : Information of Tecnology</i>
 <hr>
-Course learning <br>
+<h3>I'm currently learning</h3><br>
 <hr>
 - <i>DATABASE ANALYSIS AND DESIGN</i> <br>
 - <i>WEB APPLICATION PROGRAMMING</i> <br>
