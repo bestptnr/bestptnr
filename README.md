@@ -5,5 +5,6 @@
 <hr>
 <h3>I'm currently learning</h3>
 <hr>
- ///////
+  React Native
+  Node.js  
 <hr>
