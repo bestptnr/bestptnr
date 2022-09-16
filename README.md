@@ -7,4 +7,6 @@
 <hr>
   React Native
   Node.js  
+  React.js
+  MongoDB
 <hr>
