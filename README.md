@@ -1,7 +1,7 @@
-<h1 align="left">Hi, I'm Best From Thailand, Nice to meet you.</h3>
+<h3 align="left">Hi, I'm Best From Thailand, Nice to meet you.</h3>
 
 ###
-# Tech Skills :
+<h3> Tech Skills :</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
 </div>
 
-# 📊 GitHub Stats:
+<h3>📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=bestptnr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bestptnr&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bestptnr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
