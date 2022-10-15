@@ -19,11 +19,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
 </div>
 
-<h3>📊 GitHub Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=bestptnr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bestptnr&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bestptnr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ###
+<h3> Github Status :</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=bestptnr" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&username=bestptnr" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 
 
