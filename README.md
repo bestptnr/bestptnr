@@ -33,11 +33,6 @@
 ###
 
 
-###
-
-<p align="left">Social media...</p>
-
-###
 
 
 ###
