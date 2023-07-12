@@ -45,8 +45,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/4uJfst0Op2y2Y/giphy.gif"  />
-</div>
+
 
 ###
