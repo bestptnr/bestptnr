@@ -92,7 +92,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bestptnr/bestptnr/output/snake.svg" alt="Snake animation" />
 
 ###
 
